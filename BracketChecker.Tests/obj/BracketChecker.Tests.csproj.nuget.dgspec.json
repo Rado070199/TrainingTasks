@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/radoslawmazur/Projects/TrainingTasks/BracketChecker.Tests/BracketChecker.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/radoslawmazur/Projects/TrainingTasks/BracketChecker.Tests/BracketChecker.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/radoslawmazur/Projects/TrainingTasks/BracketChecker.Tests/BracketChecker.Tests.csproj",
+        "projectName": "BracketChecker.Tests",
+        "projectPath": "/Users/radoslawmazur/Projects/TrainingTasks/BracketChecker.Tests/BracketChecker.Tests.csproj",
+        "packagesPath": "/Users/radoslawmazur/.nuget/packages/",
+        "outputPath": "/Users/radoslawmazur/Projects/TrainingTasks/BracketChecker.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/radoslawmazur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj": {
+                "projectPath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj",
+        "projectName": "TrainingTasks",
+        "projectPath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj",
+        "packagesPath": "/Users/radoslawmazur/.nuget/packages/",
+        "outputPath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/radoslawmazur/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
