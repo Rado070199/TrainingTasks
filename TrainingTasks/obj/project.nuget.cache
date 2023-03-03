@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/XSLH7mhp1rc+zgmJq5N5Oy4kRjbI+CHIZlMUnHDELabtoGger3AupGwaSIOLhvCx13XbllzNEtLhGTpdUmgA==",
+  "dgSpecHash": "S6GrfGaj77NK34hYim8hW1062LpZKqUc6EhzUZzQVsoDHZ9Nr7WGfml2zLgRG0bDaao407jTQtUzHEWNgXmXNA==",
   "success": true,
-  "projectFilePath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/TrainingTasks.csproj",
+  "projectFilePath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

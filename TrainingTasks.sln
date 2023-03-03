@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1704.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingTasks", "TrainingTasks\TrainingTasks.csproj", "{EDD1F7B9-C3C9-428A-927E-7A5E787E1494}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketChecker", "TrainingTasks\BracketChecker.csproj", "{EDD1F7B9-C3C9-428A-927E-7A5E787E1494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

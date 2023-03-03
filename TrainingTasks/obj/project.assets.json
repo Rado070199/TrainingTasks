@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/TrainingTasks.csproj",
+      "projectUniqueName": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj",
       "projectName": "TrainingTasks",
-      "projectPath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/TrainingTasks.csproj",
+      "projectPath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/BracketChecker.csproj",
       "packagesPath": "/Users/radoslawmazur/.nuget/packages/",
       "outputPath": "/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/",
       "projectStyle": "PackageReference",

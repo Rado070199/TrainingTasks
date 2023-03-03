@@ -1,0 +1,15 @@
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/bin/Debug/net6.0/TrainingTasks
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/bin/Debug/net6.0/TrainingTasks.deps.json
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/bin/Debug/net6.0/TrainingTasks.runtimeconfig.json
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/bin/Debug/net6.0/TrainingTasks.dll
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/bin/Debug/net6.0/TrainingTasks.pdb
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/TrainingTasks.dll
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/refint/TrainingTasks.dll
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/TrainingTasks.pdb
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/radoslawmazur/Projects/TrainingTasks/TrainingTasks/obj/Debug/net6.0/ref/TrainingTasks.dll

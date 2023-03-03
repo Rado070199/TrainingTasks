@@ -1,12 +1,48 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace BracketChecker
 {
-    internal class Program
+    public class Program
     {
+        public static bool Solution(string input)
+        {
+            Stack<char> brackets = new Stack<char>();
+            Dictionary<char, char> bracketPairs = new Dictionary<char, char>()
+            {
+                {'(', ')' },
+                {'{', '}' },
+                {'[', ']' },
+                {'<', '>' },
+            };
+
+            try
+            {
+                foreach(var mark in input)
+                {
+                    if(bracketPairs.Keys.Contains(mark))
+                        brackets.Push(mark);
+                    else if (bracketPairs.Values.Contains(mark))
+                    {
+                        if(mark == bracketPairs[brackets.First()])
+                            brackets.Pop();
+                        else
+                            return false;
+                     }
+                    else
+                        continue;
+                }
+            }
+            catch(Exception)
+            {
+                return false;
+            }
+            return brackets.Count() == 0 ? true : false;
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter string:");
+            string expresion = Console.ReadLine();
+            Console.WriteLine(Solution(expresion));
         }
     }
 }
